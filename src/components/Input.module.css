@@ -1,0 +1,13 @@
+
+.input{
+    padding: 5px;
+    outline: none;
+    margin-left: 20px;
+    
+}
+.btn{
+    padding: 6px;
+    font-size: 15px;
+    border: none;
+    background-color: rgb(67, 131, 203);
+}

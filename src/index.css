@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+  background: url('https://wallpaperaccess.com/full/1219743.jpg') no-repeat center center fixed;
+  -webkit-background-size:cover ;
+  background-size: cover;
+}
+
+body {
+  margin: 0;
+ padding:0;
+ box-sizing: border-box;
+}
+

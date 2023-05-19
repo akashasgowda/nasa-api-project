@@ -1,0 +1,3 @@
+so getting data from api -->fetch 
+then rendering
+1st -->form to put input and tap search
